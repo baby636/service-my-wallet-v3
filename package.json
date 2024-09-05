@@ -46,8 +46,8 @@
     "body-parser": "~1.14.1",
     "colors": "~1.1.2",
     "commander": "~2.9.0",
-    "express": "~4.13.3",
-    "json-rpc2": "~1.0.2",
+    "express": "~4.16.0",
+    "json-rpc2": "~2.0.0",
     "q": "~1.4.1",
     "ramda": "~0.23.0",
     "registry-url": "~3.1.0",
@@ -61,9 +61,9 @@
     "chai-as-promised": "~5.2.0",
     "mocha": "~2.3.4",
     "node-env-file": "~0.1.8",
-    "nodemon": "~1.8.1",
+    "nodemon": "~2.0.20",
     "sinon": "~1.17.3",
     "sinon-chai": "~2.8.0",
-    "standard": "~8.6.0"
+    "standard": "~17.0.0"
   }
 }
